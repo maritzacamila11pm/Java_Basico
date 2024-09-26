@@ -49,11 +49,10 @@ public class JavaBasico {
          case 5: 
            EstructuraDatos ed = new EstructuraDatos();
            //ed.array();
-           ed.list();
+           //ed.list();
+           ed.map();
            break;
      }
-        
-             
      }
      
  
